@@ -12,7 +12,6 @@
 
 By submitting this technical report and associated repository artifacts:
 - I formally accept the **Core Institutional Hackathon Policy** governing Ideas vs. Implementation.
-- I declare that all Verilog RTL designs, testbenches, automation scripts, and software drivers contained in the `Semix/` directory represent an original engineering implementation developed for this hackathon.
 - Open-source standards (AMBA AXI4, PYNQ Framework) have been complied with in accordance with academic and industrial ethical standards.
 
 ---
